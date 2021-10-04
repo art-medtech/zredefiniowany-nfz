@@ -8,5 +8,11 @@
 "url": "https://nfz.org.pl/larngolog/warszawa-mokotów",
 "replace": "(22) 508 11 80",
 "replaceWith": "(47) 772 15 52"
-  }
+  },
+  {
+"url": "https://terminyleczenia.nfz.gov.pl/?search*",
+"selector": "stępińska 19/25",
+"replace": "22 31 86 223",
+"replaceWith": "() 22 31 86 223 () 213 [rejestracja]  () 270 [przychodnia otorynolaryngologiczna]"
+  },
 ]
