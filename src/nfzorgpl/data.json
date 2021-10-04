@@ -3,5 +3,10 @@
 "url": "https://nfz.org.pl/larngolog/warszawa-mokotów",
 "replace": "22-318-63-84",
 "replaceWith": "() 22-318-63-84 () 22-318-62-13 (laryngologia nfz 1) () 22-318-62-15 (laryngologia nfz 2)"
-}
+},
+  {
+"url": "https://nfz.org.pl/larngolog/warszawa-mokotów",
+"replace": "(22) 508 11 80",
+"replaceWith": "(47) 772 15 52"
+  }
 ]
